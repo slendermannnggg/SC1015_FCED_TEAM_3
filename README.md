@@ -1,6 +1,6 @@
 # Phishing Detection #
 
-Our project explores solution to tackle the ever-growing threat to cybersecurity - phishing.
+Our project explores solutions to tackle the ever-growing threat to cybersecurity - phishing.
 
 Our Dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/simaanjali/tes-upload)
 
