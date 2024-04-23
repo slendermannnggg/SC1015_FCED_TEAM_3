@@ -2,6 +2,8 @@
 
 Our project explores solutions to tackle the ever-growing threat to cybersecurity - phishing.
 
+<mark>**Problem definition**: To develop a machine learning model that can reliably detect phishing links</mark>
+
 Our Dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/simaanjali/tes-upload)
 
 ### Pre-requisite modules 
