@@ -6,14 +6,6 @@ Our project explores solutions to tackle the ever-growing threat to cybersecurit
 
 Our Dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/simaanjali/tes-upload)
 
-### Pre-requisite modules 
-- [numpy](numpy.org/doc) 
-- [pandas](https://pandas.pydata.org/docs/)
-- [seaborn](https://seaborn.pydata.org/)
-- [matplotlib](https://matplotlib.org/stable/index.html)
-- [scikitlearn](https://scikit-learn.org/stable/)
-- [imblearn](https://imbalanced-learn.org/stable/)
-
 ---
 ### Exploratory Data Analysis
 ---
@@ -68,6 +60,18 @@ This was followed by a final set of *confusion matrices*.
 Although our classification accuracy did decrease, our **false negative rates plummetted** too. In fact, the main cause of the decrease in classification accuracy is the substantial increase in false positive values. We believe this is acceptable in the case of fraud detection models, because accidentally warning a user of a link is *better* than to accidentally inform them that the link is safe when it is not.
 
 In conclusion, our model's performance increased greatly.
+
+### Pre-requisite modules 
+- [numpy](numpy.org/doc) 
+- [pandas](https://pandas.pydata.org/docs/)
+- [seaborn](https://seaborn.pydata.org/)
+- [matplotlib](https://matplotlib.org/stable/index.html)
+- [scikitlearn](https://scikit-learn.org/stable/)
+- [imblearn](https://imbalanced-learn.org/stable/)
+- [decision tree](https://scikit-learn.org/stable/modules/tree.html)
+- [random forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+- [grid search](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
+- [imb-pipeline](https://imbalanced-learn.org/stable/references/generated/imblearn.pipeline.Pipeline.html)
 
 ---
 ### Acknowledgements
