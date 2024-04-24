@@ -61,7 +61,9 @@ Although our classification accuracy did decrease, our **false negative rates pl
 
 In conclusion, our model's performance increased greatly.
 
-### Pre-requisite modules 
+---
+### References
+---
 - [numpy](numpy.org/doc) 
 - [pandas](https://pandas.pydata.org/docs/)
 - [seaborn](https://seaborn.pydata.org/)
